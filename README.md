@@ -78,11 +78,3 @@ My goal is to build a career as a **Software Engineer**, creating reliable, scal
 ⭐ Thank you for visiting my GitHub profile!
 - Database Design
 - Mobile Application Development
-
-----------------------------------------
-
-## 📫 Connect with Me
-
-- 💼 LinkedIn
-- 📧 martinvholtzhausen1@gmail.com
--->
