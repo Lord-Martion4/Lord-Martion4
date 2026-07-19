@@ -1,6 +1,6 @@
 # Hi, I'm Marthinus 👋
 
-## Software Engineering Student
+## Software Developer Student
 
 Welcome to my GitHub profile!
 
