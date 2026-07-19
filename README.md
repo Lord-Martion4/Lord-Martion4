@@ -70,7 +70,7 @@ My goal is to build a career as a **Software Engineer**, creating reliable, scal
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn profile URL here)*
+- 💼 LinkedIn: *www.linkedin.com/in/marthinus-gertthomas-von-holtzhausen*
 - 📧 Email: **martinvholtzhausen1@gmail.com**
 
 ---
