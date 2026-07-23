@@ -1,6 +1,6 @@
-# Hi, I'm Marthinus 👋
+# Hi, I'm Marthinus 
 
-## Software Developer Student
+## Information Technology Student
 
 Welcome to my GitHub profile!
 
@@ -8,7 +8,7 @@ I am an Information Technology student at **North-West University** with a stron
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Programming Languages
 - C#
@@ -36,23 +36,23 @@ I am an Information Technology student at **North-West University** with a stron
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🏡 Lerato Orphanage Management System
+###  Lerato Orphanage Management System
 Developed a Windows Forms management system using **C#** and **SQL Server**, implementing CRUD functionality, data validation, reporting, and database management.
 
-### 📱 Harmoni App (VIP Project)
+###  Harmoni App (VIP Project)
 Collaborated in the design and development of an Android application focused on improving student well-being through health tracking, scheduling, and task management.
 
-### 🌐 Network Infrastructure Project
+###  Network Infrastructure Project
 Designed and implemented a complete office network using **Cisco Packet Tracer**, including IP addressing, LAN configuration, and network topology planning.
 
-### 🦁 Zoo Kiosk
+###  Zoo Kiosk
 Developed an interactive kiosk application in **Delphi** using a Microsoft Access database, demonstrating object-oriented programming and database integration.
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Software Engineering
 - Software Design Principles
@@ -62,17 +62,17 @@ Developed an interactive kiosk application in **Delphi** using a Microsoft Acces
 
 ---
 
-## 🎯 Career Goal
+##  Career Goal
 
 My goal is to build a career as a **Software Engineer**, creating reliable, scalable, and user-focused applications while continually learning and improving my technical skills.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-- 💼 LinkedIn: *www.linkedin.com/in/marthinus-gertthomas-von-holtzhausen*
-- 📧 Email: **martinvholtzhausen1@gmail.com**
+-  LinkedIn: *www.linkedin.com/in/marthinus-gertthomas-von-holtzhausen*
+-  Email: **martinvholtzhausen1@gmail.com**
 
 ---
 
-⭐ Thank you for visiting my GitHub profile!
+ Thank you for visiting my GitHub profile!
