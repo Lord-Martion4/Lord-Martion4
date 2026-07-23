@@ -50,17 +50,7 @@ Designed and implemented a complete office network using **Cisco Packet Tracer**
 ###  Zoo Kiosk
 Developed an interactive kiosk application in **Delphi** using a Microsoft Access database, demonstrating object-oriented programming and database integration.
 
----
-
-##  Currently Learning
-
-- Software Engineering
-- Software Design Principles
-- Database Systems
-- Mobile Application Development
-- Full-Stack Development
-
----
+--
 
 ##  Career Goal
 
